@@ -1,4 +1,14 @@
-# Estudo_Power_bi
+
+# Estudo_Power_bi ANOTAÇÕES
+
+
+
+
+
+
+
+
+# Estudo_Power_bi DAX
 
 📊 Funções DAX por categoria
 ➕ Agregação
