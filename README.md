@@ -1,12 +1,4 @@
 
-# Estudo_Power_bi ANOTAÇÕES
-
-
-
-
-
-
-
 
 # Estudo_Power_bi DAX
 
